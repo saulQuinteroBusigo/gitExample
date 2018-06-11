@@ -5,6 +5,7 @@
 			<Page title="{i18n>title}">
 				<content>
 					<!-- Cambiando la vista -->
+					<!-- Cambiando la vista desde web-->
 				</content>
 			</Page>
 		</pages>
