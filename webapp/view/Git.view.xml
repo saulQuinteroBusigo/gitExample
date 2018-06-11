@@ -3,7 +3,9 @@
 	<App>
 		<pages>
 			<Page title="{i18n>title}">
-				<content></content>
+				<content>
+					<!-- Cambiando la vista -->
+				</content>
 			</Page>
 		</pages>
 	</App>
